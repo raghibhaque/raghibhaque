@@ -9,7 +9,7 @@
 ---
 
 ### 🔭 Currently Working On
-- [SysInfo Project (Java)](https://github.com/LizaBr23/Git-Pushers/blob/master/src/main/java/org/example/Main.java)
+- [SysInfo Project (Java)]([https://github.com/LizaBr23/Git-Pushers/blob/master/src/main/java/org/example/Main.java](https://github.com/raghibhaque/Java-SystemInfo))
 - Building automation and data visualization tools in **Java**, **Python**, and **C++**
 
 ### 🌱 Currently Learning
