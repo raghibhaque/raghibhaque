@@ -12,15 +12,29 @@
 - [SysInfo Project (Java)](https://github.com/LizaBr23/Git-Pushers/blob/master/src/main/java/org/example/Main.java)
 - Building automation and data visualization tools in **Java**, **Python**, and **C++**
 
+---
+
+### ✅ Projects Completed
+| Project | Description |
+|----------|-------------|
+| [**Java SystemInfo**](https://github.com/raghibhaque/Java-SystemInfo) | A detailed Java system information tool using the OSHI library — displays CPU, memory, network, and hardware statistics via an interactive CLI. |
+| [**JobSearcher (Python)**](https://github.com/raghibhaque/JobSearcher) | An automated LinkedIn job scraper that summarizes listings with Hugging Face AI and pushes results to GitHub using the REST API. |
+
+---
+
 ### 🌱 Currently Learning
 - **Advanced OOP (Java)**  
 - **System Architecture & OS Concepts**  
 - **Python scripting for automation**
 
+---
+
 ### 💬 Ask Me About
 - Java development  
 - OSHI (System Information in Java)  
 - Arch Linux setups & ricing
+
+---
 
 ### 📫 Reach Me At
 - ✉️ [raghib.haque.2007@gmail.com](mailto:raghib.haque.2007@gmail.com)
