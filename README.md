@@ -15,10 +15,12 @@
 ---
 
 ### ✅ Projects Completed
-| Project | Description |
-|----------|-------------|
-| [**Java SystemInfo**](https://github.com/raghibhaque/Java-SystemInfo) | A detailed Java system information tool using the OSHI library — displays CPU, memory, network, and hardware statistics via an interactive CLI. |
-| [**JobSearcher (Python)**](https://github.com/raghibhaque/JobSearcher) | An automated LinkedIn job scraper that summarizes listings with Hugging Face AI and pushes results to GitHub using the REST API. |
+| Project                                                                | Description                                                                                                                                                                                                         |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**LOCK_IN (JavaScript)**](https://github.com/raghibhaque/LOCK_IN)     | A clean, offline focus timer and productivity dashboard built with pure HTML, CSS, and JavaScript. Includes a collapsible widget, live system clock, and customizable gradient background with persistent settings. |
+| [**SysInfo Project (Java)**](https://github.com/LizaBr23/Git-Pushers)  | A system information CLI built in Java using the OSHI library — displays CPU, memory, disk, network, and hardware stats in a structured, menu-driven interface.                                                     |
+| [**JobSearcher (Python)**](https://github.com/raghibhaque/JobSearcher) | A LinkedIn job search automation tool built in Python that scrapes listings and organizes results into GitHub-friendly summaries using data parsing and REST APIs.                                                  |
+
 
 ---
 
