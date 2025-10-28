@@ -69,8 +69,18 @@
 
 ---
 
-### ⚡ Fun Fact
-> I use **Arch Linux** btw 😎
+<p align="center">
+
+### ♟️ My Lichess Stats
+
+🕐 **Bullet:** ![Bullet](https://img.shields.io/badge/dynamic/json?color=yellow&label=&query=perfs.bullet.rating&url=https://lichess.org/api/user/madgeeked247420)  
+⚡ **Blitz:** ![Blitz](https://img.shields.io/badge/dynamic/json?color=blue&label=&query=perfs.blitz.rating&url=https://lichess.org/api/user/madgeeked247420)  
+🎯 **Rapid:** ![Rapid](https://img.shields.io/badge/dynamic/json?color=green&label=&query=perfs.rapid.rating&url=https://lichess.org/api/user/madgeeked247420)  
+🐢 **Classical:** ![Classical](https://img.shields.io/badge/dynamic/json?color=orange&label=&query=perfs.classical.rating&url=https://lichess.org/api/user/madgeeked247420)  
+
+<a href="https://lichess.org/@/madgeeked247420">View full profile ↗️</a>
+</p>
+
 
 ---
 
