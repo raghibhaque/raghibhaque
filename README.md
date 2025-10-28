@@ -74,20 +74,12 @@
 ### ♟️ My Lichess Stats
 
 🕐 **Bullet:** ![Bullet](https://img.shields.io/badge/dynamic/json?color=yellow&label=&query=perfs.bullet.rating&url=https://lichess.org/api/user/bleedinghearts)  
-⚡ **Blitz:** ![Blitz](https://img.shields.io/badge/dynamic/json?color=blue&label=&query=perfs.blitz.rating&url=https://lichess.org/api/user/bleedinghearts)  
-🎯 **Rapid:** ![Rapid](https://img.shields.io/badge/dynamic/json?color=green&label=&query=perfs.rapid.rating&url=https://lichess.org/api/user/bleedinghearts)  
-🐢 **Classical:** ![Classical](https://img.shields.io/badge/dynamic/json?color=orange&label=&query=perfs.classical.rating&url=https://lichess.org/api/user/bleedinghearts)  
-
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raghibhaque&show_icons=true&theme=tokyonight" alt="raghibhaque stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghibhaque&theme=tokyonight" alt="streak stats" />
 </p>
 
 <p align="center">
