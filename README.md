@@ -8,12 +8,6 @@
 
 ---
 
-### 🔭 Currently Working On
-- [SysInfo Project (Java)](https://github.com/LizaBr23/Git-Pushers/blob/master/src/main/java/org/example/Main.java)
-- Building automation and data visualization tools in **Java**, **Python**, and **C++**
-
----
-
 ### ✅ Projects Completed
 | Project                                                                | Description                                                                                                                                                                                                         |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -28,13 +22,6 @@
 - **Advanced OOP (Java)**  
 - **System Architecture & OS Concepts**  
 - **Python scripting for automation**
-
----
-
-### 💬 Ask Me About
-- Java development  
-- OSHI (System Information in Java)  
-- Arch Linux setups & ricing
 
 ---
 
