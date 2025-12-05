@@ -7,17 +7,13 @@
 </p>
 
 ---
-
-## 🧠 Projects I'm Currently Working On
-
-### 🎮 [Zork Java Game](https://github.com/raghibhaque/zork/tree/main)
----
 ### ✅ Projects Completed
 | Project                                                                | Description                                                                                                                                                                                                         |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [**LOCK_IN (JavaScript)**](https://github.com/raghibhaque/LOCK_IN)     | A clean, offline focus timer and productivity dashboard built with pure HTML, CSS, and JavaScript. Includes a collapsible widget, live system clock, and customizable gradient background with persistent settings. |
 | [**SysInfo Project (Java)**](https://github.com/LizaBr23/Git-Pushers)  | A system information CLI built in Java using the OSHI library — displays CPU, memory, disk, network, and hardware stats in a structured, menu-driven interface.                                                     |
 | [**JobSearcher (Python)**](https://github.com/raghibhaque/JobSearcher) | A LinkedIn job search automation tool built in Python that scrapes listings and organizes results into GitHub-friendly summaries using data parsing and REST APIs.                                                  |
+| [**Zork Game (Java)**](https://github.com/raghibhaque/zork)            |  A dark, story-driven Java text-adventure built with JavaFX, featuring room navigation, puzzles, inventory, NPCs, serialization, and a custom pixel-art GUI fully designed from scratch.                            |
 
 
 ---
