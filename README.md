@@ -56,19 +56,3 @@
 
 ---
 
-<p align="center">
-
-### ♟️ My Lichess Stats
-
-🕐 **Bullet:** ![Bullet](https://img.shields.io/badge/dynamic/json?color=yellow&label=&query=perfs.bullet.rating&url=https://lichess.org/api/user/bleedinghearts)  
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghibhaque&show_icons=true&theme=tokyonight" alt="raghibhaque stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghibhaque&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
