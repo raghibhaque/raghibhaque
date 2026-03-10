@@ -19,10 +19,9 @@
 ---
 
 ### 🌱 Currently Learning
-- **Advanced OOP (Java)**  
+- **C,Java , and Python**  
 - **System Architecture & OS Concepts**  
-- **Python scripting for automation**
-
+- **Operating systems**
 ---
 
 ### 📫 Reach Me At
