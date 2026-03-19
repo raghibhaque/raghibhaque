@@ -18,11 +18,11 @@
 
 
 ---
-
 ### 🌱 Currently Learning
-- **C,Java , and Python**  
-- **System Architecture & OS Concepts**  
-- **Operating systems**
+- **Linux Kernel Development & Driver Programming**
+- **System Architecture & OS Concepts**
+- **JavaScript & TypeScript**
+- **Python automation using Selenium**
 ---
 
 ### 📫 Reach Me At
