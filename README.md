@@ -14,7 +14,7 @@
 | [**SysInfo Project (Java)**](https://github.com/raghibhaque/Git-Pushers/tree/main)  | A system information CLI built in Java using the OSHI library — displays CPU, memory, disk, network, and hardware stats in a structured, menu-driven interface.                                                     |
 | [**JobSearcher (Python)**](https://github.com/raghibhaque/JobSearcher) | A LinkedIn job search automation tool built in Python that scrapes listings and organizes results into GitHub-friendly summaries using data parsing and REST APIs.                                                  |
 | [**Zork Game (Java)**](https://github.com/raghibhaque/zork)            |  A dark, story-driven Java text-adventure built with JavaFX, featuring room navigation, puzzles, inventory, NPCs, serialization, and a custom pixel-art GUI fully designed from scratch.                            |
-| [**KernelWare  (C/Bash)**](https://github.com/Tully9/KernelWare) | A WarioWare-style mini-game console built around a custom Linux Kernel Module. The driver exposes a character device using hrtimers, wait queues, and ioctl — userspace communicates via read/write system calls across three pthreads handling input, rendering, and game logic. |
+| [**KernelWare  (C/Bash)**](https://github.com/raghibhaque/KernelWare) | A WarioWare-style mini-game console built around a custom Linux Kernel Module. The driver exposes a character device using hrtimers, wait queues, and ioctl — userspace communicates via read/write system calls across three pthreads handling input, rendering, and game logic. |
 
 
 ---
