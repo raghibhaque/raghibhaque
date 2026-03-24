@@ -1,8 +1,4 @@
-<h1 align="center">Raghib Haque</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-‎-39ff14?style=flat-square&labelColor=000000&color=39ff14" height="2" width="80"/>
-</p>
+<h1 align="center">Raghib Haque</h1> <h3 align="center">💻 First Year ISE Student @ University of Limerick | Systems • Linux</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=raghibhaque&label=Profile%20views&color=0e75b6&style=flat" alt="raghibhaque" /> <img src="https://img.shields.io/github/followers/raghibhaque?label=Followers&style=social" alt="followers" /> </p>
 
 <h3 align="center">First Year ISE Student @ University of Limerick | Systems • Linux</h3>
 
