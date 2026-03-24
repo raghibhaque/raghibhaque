@@ -12,20 +12,25 @@
 | [**Zork Game (Java)**](https://github.com/raghibhaque/zork)            |  A dark, story-driven Java text-adventure built with JavaFX, featuring room navigation, puzzles, inventory, NPCs, serialization, and a custom pixel-art GUI fully designed from scratch.                            |
 | [**KernelWare  (C/Bash)**](https://github.com/raghibhaque/KernelWare) | A WarioWare-style mini-game console built around a custom Linux Kernel Module. The driver exposes a character device using hrtimers, wait queues, and ioctl — userspace communicates via read/write system calls across three pthreads handling input, rendering, and game logic. |
 
-
 ---
+
 ### 🌱 Currently Learning
-- **Linux Kernel Development & Driver Programming**
-- **System Architecture & OS Concepts**
-- **JavaScript & TypeScript**
-- **Python Automation using Selenium**
+
+<p align="center">
+<strong>Linux Kernel Development & Driver Programming</strong><br/>
+System Architecture & OS Concepts<br/>
+JavaScript & TypeScript<br/>
+Python Automation using Selenium
+</p>
+
 ---
 
 ### 📫 Reach Me At
+
 <p align="center">
-- ✉️ [raghib.haque.2007@gmail.com](mailto:raghib.haque.2007@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/raghib-haque-237757383)
-- 📸 [Instagram](https://instagram.com/rgbscene)
+✉️ <a href="mailto:raghib.haque.2007@gmail.com">raghib.haque.2007@gmail.com</a><br/>
+🌐 <a href="https://www.linkedin.com/in/raghib-haque-237757383">LinkedIn</a><br/>
+📸 <a href="https://instagram.com/rgbscene">Instagram</a>
 </p>
 
 ---
