@@ -16,13 +16,12 @@
 
 ### 🌱 Currently Learning
 
-<p align="center">
-<strong>Linux Kernel Development & Driver Programming</strong><br/>
-System Architecture & OS Concepts<br/>
-JavaScript & TypeScript<br/>
-Python Automation using Selenium
-</p>
-
+<ul align="center" style="list-style-position: inside;">
+  <li><strong>Linux Kernel Development & Driver Programming</strong></li>
+  <li>System Architecture & OS Concepts</li>
+  <li>JavaScript & TypeScript</li>
+  <li>Python Automation using Selenium</li>
+</ul>
 ---
 
 ### 📫 Reach Me At
