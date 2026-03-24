@@ -22,6 +22,7 @@
   <li>JavaScript & TypeScript</li>
   <li>Python Automation using Selenium</li>
 </ul>
+
 ---
 
 ### 📫 Reach Me At
