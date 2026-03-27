@@ -43,7 +43,7 @@
 
 ### 📋Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghibhaque&show_icons=true&theme=dark" />
+  [![Raghib's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghibhaque)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
