@@ -43,8 +43,7 @@
 
 ### 📋Github Stats
 
-[![Raghib's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghibhaque)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Raghib's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghibhaque&theme=radical&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 <p align="center">
