@@ -11,6 +11,7 @@
 | [**JobSearcher (Python)**](https://github.com/raghibhaque/JobSearcher) | A LinkedIn job search automation tool built in Python that scrapes listings and organizes results into GitHub-friendly summaries using data parsing and REST APIs.                                                  |
 | [**Zork Game (Java)**](https://github.com/raghibhaque/zork)            |  A dark, story-driven Java text-adventure built with JavaFX, featuring room navigation, puzzles, inventory, NPCs, serialization, and a custom pixel-art GUI fully designed from scratch.                            |
 | [**KernelWare  (C/Bash)**](https://github.com/raghibhaque/KernelWare) | A WarioWare-style mini-game console built around a custom Linux Kernel Module. The driver exposes a character device using hrtimers, wait queues, and ioctl — userspace communicates via read/write system calls across three pthreads handling input, rendering, and game logic. |
+| [**Neural Network (Python)**](https://github.com/raghibhaque/neuralnetwork) | A single-neuron neural network built from scratch using NumPy — implements forward propagation, MSE loss, and backpropagation with gradient descent over 1000 epochs. Trained on a synthetic dataset to classify student pass/fail outcomes based on study hours using a sigmoid activation. |
 
 ---
 
