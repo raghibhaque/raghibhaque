@@ -42,9 +42,8 @@
 ---
 
 ### 📋Github Stats
-<p align="center">
-  [![Raghib's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghibhaque)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
+[![Raghib's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghibhaque)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
