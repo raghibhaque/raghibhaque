@@ -1,5 +1,5 @@
 <h1 align="center">Raghib Haque</h1> 
-<h3 align="center">💻 First Year ISE Student @ University of Limerick </h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=raghibhaque&label=Profile%20views&color=0e75b6&style=flat" alt="raghibhaque" /> <img src="https://img.shields.io/github/followers/raghibhaque?label=Followers&style=social" alt="followers" /> </p>
+<h3 align="center">💻 First Year ISE Student @ University of Limerick | Incoming Intern @ Johnson & Johnson </h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=raghibhaque&label=Profile%20views&color=0e75b6&style=flat" alt="raghibhaque" /> <img src="https://img.shields.io/github/followers/raghibhaque?label=Followers&style=social" alt="followers" /> </p>
 
 
 ---
