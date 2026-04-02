@@ -19,8 +19,7 @@
 
 <div align="center">
   <ul>
-    <li><strong>Linux Kernel Development & Driver Programming</strong></li>
-    <li>System Architecture & OS Concepts</li>
+<li><strong><a href="https://github.com/raghibhaque/snakegame" target="_blank">Snake Game in C!</a></strong></li>    <li>System Architecture & OS Concepts</li>
     <li>JavaScript & TypeScript</li>
     <li>Python Automation using Selenium</li>
   </ul>
