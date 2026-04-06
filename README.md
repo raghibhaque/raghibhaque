@@ -41,6 +41,9 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=raghibhaque&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+---
 <p align="center">
   <img src="https://img.shields.io/badge/Spotify-Currently%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </p>
