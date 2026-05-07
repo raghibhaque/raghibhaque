@@ -22,7 +22,7 @@
 
 <div align="center">
   <ul>
-<li><strong><a href="https://github.com/raghibhaque/snakegame" target="_blank">Snake Game in C!</a></strong></li>    <li>System Architecture & OS Concepts</li>
+<li><strong><a href="https://examhype.vercel.app" target="_blank">ExamHype - Your personal AI</a></strong></li>    <li>System Architecture & OS Concepts</li>
     <li>JavaScript & TypeScript</li>
     <li>Python Automation using Selenium</li>
   </ul>
